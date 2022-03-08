@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ASP.CHUSHKA12d.Data
 {
-    public enum RoleType { User,Admin}
+   
     public class User
     {
         public int Id { get; set; }
